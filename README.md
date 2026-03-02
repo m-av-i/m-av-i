@@ -28,7 +28,7 @@
       <td width="45%" align="center" valign="top">
          <img src="https://preview.redd.it/how-gojo-satoru-is-going-to-make-his-comeback-no-copium-v0-bj38l8vh6jpb1.jpg?width=1618&format=pjpg&auto=webp&s=32c8a1101b28bdf1abca8397e0197cc65aca4c42" width="90%" style="border-radius: 15px; box-shadow: 0px 0px 15px #f800f8;">
          <br><br>
-         <p align="center"><i><font size="2" color="#8A2BE2">🪷 "[...] Mas não dá para pedir a "compreensão das flores"."</font></i> 🪷</p>
+         <p align="center"><i><font size="2" color="#8A2BE2">"Você pode fazer flores desabrocharem, pode até admirá-las. <br> Mas não dá para pedir a "Compreensão das Flores" de volta."</font></i> <br> 🪷🪷🪷🪷🪷🪷🪷</p>
       </td>
     </tr>
   </table>
