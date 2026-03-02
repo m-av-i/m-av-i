@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/18/72/f4/1872f4cdcc911bce553e1f5705353ee5.gif" width="100%" height="200" style="object-fit: cover; border-radius: 10px;">
   <br><br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&pause=1000&color=FF003C&center=true&vCenter=true&width=800&height=80&lines=MAVI+LUAU;PYTHON+DEVELOPER;RELAÇÕES+INTERNACIONAIS;RESEARCHER" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&pause=1000&color=FF003C&center=true&vCenter=true&width=800&height=80&lines=MAVI+LUAU;PYTHON;RELAÇÕES+INTERNACIONAIS;RESEARCHER" alt="Typing SVG">
   
   <br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="80%">
